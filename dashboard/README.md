@@ -1,1 +1,1 @@
-# Wrold Bank Data Dashboard
+# World Bank Data Dashboard
