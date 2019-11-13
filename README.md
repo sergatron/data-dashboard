@@ -3,3 +3,7 @@ This dashboard is developed using a number of Python packages such as Flask, Plo
 
 # Acknowledgements
 Data dashboards are part of the ***Web Development*** lesson offered by [Udacity's](https://www.udacity.com/) ***Data Science Nanodegree***
+
+# File Description
+**dashboard**: contains JavaScript, CSS, and HTML files used to produce interactive plots within browser
+**flask-web-app**: deployed web application and its relavent files
